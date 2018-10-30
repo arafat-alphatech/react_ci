@@ -1,0 +1,13 @@
+.list-group  a {
+    color: #383333;
+}
+
+.view-all a{
+    font-size: 15px;
+    color: #fff;
+}
+
+.group-active{
+    color: #fff;
+    background-color: #007bff;
+}

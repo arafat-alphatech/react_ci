@@ -1,0 +1,15 @@
+.img-card-header {
+    width: 50px;
+}
+
+.link-title, .link-title:hover{
+    color: #383333;
+}
+
+.footer-card{
+    color: #4d4a4a;
+}
+
+.footer-card:hover{
+    color: #56a8ff;
+}

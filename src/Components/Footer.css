@@ -1,0 +1,23 @@
+.footer, .footer:hover{
+    margin: 20px;
+    color: #fff;
+}
+
+.sosmed > i{
+    font-size: 23px;
+    margin: 8px
+}
+
+.sosmed .fa-facebook-f:hover{
+    color: #3b5998;
+}
+
+.sosmed .fa-instagram:hover {
+    color: #c13584;
+}
+.sosmed .fa-twitter:hover {
+    color: #00b2ff;
+}
+.sosmed .fa-slack-hash:hover {
+    color: #e01563;
+}

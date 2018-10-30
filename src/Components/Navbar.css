@@ -1,0 +1,13 @@
+.img-logo-brand{
+    height: 50px;
+    animation: img-logo-spin infinite 10s linear;
+}
+
+@keyframes img-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
