@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className='text-center'>
-                &copy; arafat, 2018. &nbsp; Alphatech Academy
+                &copy; arafat, 2018 - &nbsp; Alphatech Academy
                 <div className="sosmed float-right">
                     <i className="fab fa-facebook-f"></i> 
                     <i className="fab fa-instagram"></i> 
